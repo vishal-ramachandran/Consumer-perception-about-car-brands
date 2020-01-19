@@ -5,10 +5,10 @@ The aim of the project is to gather insights from social media conversations and
 We scraped about 7k posts about car discussions from the Edmunds.com forum
 
 # Approach
-•	Data cleaning and pre-processing using NLTK
-•	Find association between top 10 car brands through calculation of lift ratios
-•	Visualize the brands on a multi-dimensional scaling (MDS) map
-•	Understand the key attributes of top brands
+•	Data cleaning and pre-processing using NLTK<br />
+•	Find association between top 10 car brands through calculation of lift ratios<br />
+•	Visualize the brands on a multi-dimensional scaling (MDS) map<br />
+•	Understand the key attributes of top brands<br />
 •	Find the most aspirational brands
 
 # Results and recommendations
