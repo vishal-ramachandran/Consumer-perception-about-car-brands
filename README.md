@@ -1,6 +1,8 @@
 # Introduction
 The aim of the project is to gather insights from social media conversations and provide actionable recommendations to the product manager and marketing team of various car brands
 
+![Alt Text](Intro_image.png)
+
 # Data Overview
 We scraped about 7k posts about car discussions from the Edmunds.com forum
 
